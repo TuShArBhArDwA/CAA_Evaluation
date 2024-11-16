@@ -1,4 +1,5 @@
 # Student CA Evaluator System
+![ewsrdctfyg](https://github.com/user-attachments/assets/ddf8d406-b743-40a2-b5b8-8e0a39e1f2cd)
 
 ## Table of Contents
 1. [About](#about)
@@ -29,7 +30,7 @@ The **Student CA Evaluator System** is a C-based program that manages student Co
 ### Installation
 1. Clone the repository.
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/TuShArBhArDwA/Student-CA-Evaluation-System
 2. Compile the program using a C compiler:
    ```bash
    gcc main.c -o ca_evaluator

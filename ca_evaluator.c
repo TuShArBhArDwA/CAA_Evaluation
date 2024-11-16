@@ -1,13 +1,3 @@
-/* This program provides a menu of options to the user for creating, display, search, modify, and delete a Student CA Details. 
-The records are stored in an array of structures. The user can add a new record by providing the name 
-,registeration number, total marks and marks obtained, which is then added to the array along
-Can change number of Entries of Students as per requirement*/ 
-
-/*
-Program is also made to handle the error in which if the user enter the marks less than 0 or greater than the total marks then 
-it will inform the user with a suitable message
-*/
-
 #include<stdio.h>
 #include<string.h>
 #include "color.h"
